@@ -7,9 +7,7 @@ Using the same password decryption is done.
 
 the implementation is in python version 3.5.0
 
-Ear.py is the train and test file
-
-Use.py is the file used to predict the output after training and testing by loading the trained model
+run encrypt.py to get a menu for options for file or folder encryption/decryption.
 
 Enjoy the Project
 
